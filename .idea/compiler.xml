@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Application" />
         <module name="first" />
+        <module name="mongodb" />
         <module name="second" />
         <module name="Spring_boot_my" />
       </profile>
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel target="8">
       <module name="Application" target="1.5" />
       <module name="first" target="1.8" />
+      <module name="mongodb" target="1.5" />
       <module name="second" target="1.8" />
       <module name="Spring_boot_my" target="1.6" />
     </bytecodeTargetLevel>
