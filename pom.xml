@@ -7,8 +7,11 @@
     <groupId>groupId</groupId>
     <artifactId>training-with-services</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>intelias</module>
+    </modules>
 
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
     <name>YourApp</name>
 
     <parent>
