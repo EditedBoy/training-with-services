@@ -1,6 +1,6 @@
 CREATE KEYSPACE IF NOT EXISTS mykeyspace WITH REPLICATION = { 'class' : 'NetworkTopologyStrategy', 'datacenter1' : 3 };
 
-use mykeyspace;
+USE mykeyspace;
 
 CREATE TABLE IF NOT EXISTS people_by_first_name(
   first_name TEXT,
