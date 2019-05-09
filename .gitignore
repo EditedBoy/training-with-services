@@ -1,5 +1,5 @@
 # file: ~/.gitignore_global
-.idea/
+.idea
 
 # Compiled class file
 *.class
